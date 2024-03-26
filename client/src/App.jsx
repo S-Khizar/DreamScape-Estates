@@ -3,8 +3,9 @@ import Home from "./pages/Home"
 import SignIn from "./pages/SignIn"
 import About from "./pages/About"
 import Profile from "./pages/Profile"
-import SignUp from "./SignUp"
+import SignUp from "./pages/SignUp"
 import Header from "./components/Header"
+
 
 
 export default function App() {
